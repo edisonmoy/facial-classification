@@ -91,4 +91,23 @@ model.compile(loss='binary_crossentropy', optimizer='adam', metrics = ['accuracy
 model.fit(trainImages, trainLabels, batch_size = 50, epochs = 5, verbose = 1)
 
 
+
+# Test on Test Set
+TEST_DIR = './test'
+def load_test_data():
+    test_data = []
+    for img in os.listdir(TEST_DIR):
+        label = label_img(img)
+        path = os.path.join(TEST_DIR, img)
+        if "DS_Store" not in path:
+            img = Image.open(path)
+            img = img.convert('L')
+            img = img.resize((IMG_SIZE, IMG_SIZE), Image.ANTIALIAS)
+            test_data.append([np.array(img), label])
+    shuffle(test_data)
+    return test_data
+
+
+test_data = load_test_data()    
+plt.imshow(test_data[10][0], cmap = 'gist_gray')
         
