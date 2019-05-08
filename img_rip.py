@@ -4,7 +4,7 @@ from google_images_download import google_images_download
 # creating object
 response = google_images_download.googleimagesdownload()
 
-search_queries = ['chinese_person', 'ghanaian_person']
+search_queries = ['chinese_man','chinese_woman','chinese_adult','chinese_person', 'ghanaian_man','ghanaian_woman','ghanaian_adult','ghanaian_person']
 
 
 def downloadimages(query):
@@ -18,7 +18,7 @@ def downloadimages(query):
     # of images to download. ("tall, square, wide, panoramic")
     arguments = {"keywords": query,
                  "format": "jpg",
-                 "limit": 100,
+                 "limit": 80,
                  "print_urls": True,
                  "size": "medium",
                  "aspect_ratio": "square"}
@@ -29,7 +29,7 @@ def downloadimages(query):
     except FileNotFoundError:
         arguments = {"keywords": query,
                      "format": "jpg",
-                     "limit": 4,
+                     "limit": 1000,
                      "print_urls": True,
                      "size": "medium"}
 
