@@ -21,7 +21,6 @@ from PIL import Image
 import numpy as np
 from random import shuffle
 import matplotlib.pyplot as plt
-
 img_path = './downloads'
 
 
@@ -38,7 +37,8 @@ def get_size_statistics():
                 widths.append(data.shape[1])
                 img_count += 1
             except (IOError, SyntaxError) as e:
-                print('Bad file:', img) # print out the names of corrupt files
+                continue
+                #print('Bad file:', img) # print out the names of corrupt files
     avg_height = sum(heights) / len(heights)
     avg_width = sum(widths) / len(widths)
     print('\n')
@@ -49,6 +49,7 @@ def get_size_statistics():
     print("Average Width: " + str(avg_width))
     print("Max Width: " + str(max(widths)))
     print("Min Width: " + str(min(widths)))
+    print("Total Number of Images: "+ str(img_count))
 
 get_size_statistics()
 
@@ -87,36 +88,29 @@ IMG_SIZE = 300
 
 def load_data(dir):
     data = []
-    data_imgs = []
-    data_labels = []
     r = list_files(dir)
     for img in r:
         try :
             label = label_img(img, labels)
             if "DS_Store" not in img:
                 img_data = Image.open(img)
-                np_img = np.array(img_data)
                 img_data = img_data.convert('L')
                 img_data = img_data.resize((IMG_SIZE, IMG_SIZE), Image.ANTIALIAS)
                 data.append([np.array(img_data), label])
-                data_imgs.append((np_img))
-#                 print("type ", type(img_data))
-                data_labels.append(label)
         except (IOError, SyntaxError) as e:
-                print('Bad file:', img) # print out the names of corrupt files
+            continue
+                #print('Bad file:', img) # print out the names of corrupt files
             
     shuffle(data)
-    data_imgs = np.asarray(data_imgs, dtype=np.ndarray)
-    data_labels = np.asarray(data_labels, dtype=np.ndarray)
-    return data, data_imgs, data_labels
+    return data
 
 
 # In[6]:
 
 
 training_dir = "downloads/train"
-train_data, train_img, train_label = load_data(training_dir)
-print(len(train_data))
+train_data = load_data(training_dir)
+print("Number of training images: ", len(train_data))
 show_img(train_data, 13)
 
 
@@ -124,27 +118,12 @@ show_img(train_data, 13)
 
 
 testing_dir = 'downloads/test'
-test_data, test_img, test_label = load_data(testing_dir)
+test_data = load_data(testing_dir)
+print("Number of testing images: ", len(test_data))
 show_img(test_data, 10)
 
 
 # In[8]:
-
-
-print("Shape ", train_img.shape)
-print("Size of train_label:",len(train_label))
-print(len(test_data))
-
-
-# In[9]:
-
-
-from keras.utils import to_categorical
-
-# train_img = train_img.reshape((-1, IMG_SIZE, IMG_SIZE, 1))
-# train_img = train_img.astype('float32') / 255
-# test_img = test_img.reshape((-1, IMG_SIZE, IMG_SIZE, 1))
-# test_img = test_img.astype('float32') / 255
 
 
 trainImages = np.array([i[0] for i in train_data]).reshape(-1, IMG_SIZE, IMG_SIZE, 1)
@@ -154,7 +133,7 @@ testImages = np.array([i[0] for i in test_data]).reshape(-1, IMG_SIZE, IMG_SIZE,
 testLabels = np.array([i[1] for i in test_data])
 
 
-# In[ ]:
+# In[9]:
 
 
 import keras
@@ -207,17 +186,25 @@ model.summary()
 # In[ ]:
 
 
-# model.compile(optimizer='rmsprop',loss='categorical_crossentropy',metrics=['accuracy'])
-# model.fit(trainImages, train_label, epochs=5, batch_size=64)
+# from keras_tqdm import TQDMNotebookCallback
+from keras_tqdm import TQDMCallback
+
 
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics = ['accuracy'])
 
-model.fit(trainImages, trainLabels, batch_size = 50, epochs = 5, verbose = 1)
+model.fit(trainImages, trainLabels, batch_size = 16, epochs = 5, verbose = 0, callbacks=[TQDMCallback()])
+# model.fit(trainImages, trainLabels, batch_size = 50, epochs = 5, verbose = 1)
+
+
+# In[1]:
+
+
+test_loss, test_acc = model.evaluate(testImages, testLabels)
+print(test_acc)
 
 
 # In[ ]:
 
 
-test_loss, test_acc = model.evaluate(testImages, testLabels)
-print(test_acc)
+
 
