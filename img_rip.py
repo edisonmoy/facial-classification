@@ -4,7 +4,10 @@ from google_images_download import google_images_download
 # creating object
 response = google_images_download.googleimagesdownload()
 
-search_queries = ['chinese_man','chinese_woman','chinese_adult','chinese_person', 'ghanaian_man','ghanaian_woman','ghanaian_adult','ghanaian_person']
+# search_queries = ['chinese_man_face','chinese_woman_face', 'chinese_male_face','chinese_female_face','chinese_adult_face','chinese_person_face', 
+# 'ghanaian_man_face','ghanaian_woman_face','ghanaian_male_face','ghanaian_female_face','ghanaian_adult_face','ghanaian_person_face']
+
+search_queries = ['chinese_child_face', 'ghanaian_child_face']
 
 
 def downloadimages(query):
