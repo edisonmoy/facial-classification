@@ -1,0 +1,286 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns#" lang="eng" xml:lang="eng">
+<head>
+    <meta property="og:title" content="Events Home" />
+    <meta property="og:type" content="article" />
+
+    <meta property="og:url" content="http://www.events.great.gov.uk/ehome/index.php?eventid=200183029&" />
+
+    <meta property="og:image" content="https://eu.eventscloud.com/file_uploads/1571e149c17a7215311e0d2a796aad67_BIG.png" />
+
+
+<title>Events Home</title>
+    <!-- =========================== Begin HEAD ============================= -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KLCVF66');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+<link href="https://eu.eventscloud.com/file_uploads/5c4ca45ae4b3c0fc225dc603adec7f3a_favicon-192x192.png" rel="shortcut icon" type="image/png">
+    <!--FONT AWESOME-->
+<link href="https://fonts.googleapis.com/css?family=Overpass:400,700|Roboto:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="https://ps-eu.eventscloud.com/dit/london-design/css/master.css" rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://ps-eu.eventscloud.com/dit/london-design/bower_components/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="https://ps-eu.eventscloud.com/dit/london-design/js/custom.js"></script>
+
+    <!-- =========================== End HEAD ============================= --><meta name="custom-class" content="home" />
+<script language="javascript" type="text/javascript" src="/include/scripts/scripts.js"></script>
+<script language="javascript" type="text/javascript" src="/ehome/include/scripts.js"></script>
+<!--[if IE 7]>
+<style type="text/css">
+.ehsm ul ul ul {margin-left:-1px;}
+.ehsm ul ul ul.left {margin-left:1px;}
+.ehtm li { white-space:nowrap; };
+</style>
+<![endif]-->
+<style type="text/css">
+html {background:#FFFFFF;}
+body {margin:0px;}
+body:not(.ereg):not(.ehome) tr[bgcolor="#313139"]{background: white !important;}
+td,div,font,p { font-family:Arial;font-size:12px; }
+td { color:#000000; }
+label{ padding:2px; display:inline-block; }
+.standard label{ padding:2px; display:inline; }
+.displayInlineBlock { display:inline-block; }
+select,input,textarea { font-family:Arial;font-size:12px;border:1px solid #abadb3;border-right-color:#dbdfe6;border-bottom-color:#dbdfe6; }
+input.button{ border:0; }
+.standard { font-family:Arial;font-size:12px; }
+.header { font-family:Arial;font-size:13px;color:#FFFFFF;font-weight:bold; }
+.on { font-family:Arial;color:#ffffff;font-size:14px;font-weight:bold; }
+.off { font-family:Arial;color:#CCCCCC;font-size:12px; }
+.red { font-family:Arial;font-size:12px;color:red; }
+.redLabel, .redLabel.questionLabel, a.redLabel:link, a.redLabel:visited { font-family:Arial;font-size:12px;color:red !important; }
+.error { background:#ffeeee;border:1px solid #ff9999; }
+.selectbox { color:#000;font-family:arial;font-size:8pt;background-color:#FFF; }
+.headercell { font-family:arial;font-size:8pt;font-weight:bold;color:#000000; }
+.maincell { font-family:arial;font-size:8pt;color:#000;background:#FFF;text-align:center;height:22px; }
+.maincellover { font-family:arial;font-size:8pt;font-weight:bold;color:#FFF;background:#000066;text-align:center;cursor:pointer; }
+.tablerow1 { background:#eeeeee; }
+.tablerow2 { background:#ffffff; }
+a:link,a:visited { text-decoration:none;color:#313139; outline:none; }
+a:hover { color:#313139; }
+a.menu:link,a.menu:visited { font-family:Arial;font-size:13px;text-decoration:none;color:#ffffff; }
+a.menu_standard:link,a.menu_standard:visited { font-family:Arial;font-size:12px;text-decoration:none;color:#ffffff; }
+a.menu:hover { color:#ffffff; }
+a.footer:link,a.footer:visited { font-family:Arial;font-size:12px;text-decoration:underline;color:#ffffff; }
+a.footer:hover { text-decoration:none;color:#ffffff; }
+.poweredBy { margin:0; padding:16px 0 0 10px; }
+div.thumbContainer {display:table-cell;vertical-align:middle;width:100px;height:100px;}
+.questionInput input[readonly='readonly'], .questionInput select[readonly='readonly'] {background-color: #cccccc;}
+div.thumbContainer>img { border: none;max-width:100px;max-height:100px;image-rendering:-moz-crisp-edges;image-rendering:-o-crisp-edges;image-rendering:-webkit-optimize-contrast;image-rendering:crisp-edges;-ms-interpolation-mode:nearest-neighbor; }
+.success { color: green; }
+.fail { color: red; }
+.disabled { position: relative; }
+.disabled::before { content: ' '; position: absolute; display: block; width: 100%; height: 100%; top: 0; left: 0; z-index: 9999; }
+#additional-travel-table th, #additional-travel-table td { padding: 5px; }
+#additional-travel-table td.airport { text-align: center; }
+.paynowbutton{background:rebeccapurple;border-color: #abadb3 #dbdfe6 #dbdfe6 #abadb3;color: #ffffff;cursor: pointer;font-family: arial,helvetica,sans-serif;font-size: 13px;font-weight: bold;height: 24px;margin: 0 5px;padding: 0 0 4px;width: 130px;}
+@media print { .no-print { display: none } }
+.margin-right10 { margin-right : 10px !important; cursor: pointer !important; }
+.ehtm { font-size:13px; z-index:1000000; }
+.ehtm ul { padding:0; margin:0; list-style-type:none; min-height:2em; background:#313139; z-index:1000000; }
+.ehtm ul ul { width:12em; z-index:1000000; }
+.ehtm ul li { float:left; min-height:2em; line-height:2em; z-index:1000000; }
+.ehtm ul ul li { display:block; width:12em; height:auto; position:relative; line-height:1em; }
+.ehtm a,.ehtm a:visited,.ehtm span { display:block; float:left; height:100%; text-decoration:none; background:#313139; color:#ffffff; padding:0 1em 0 1em;  z-index:1000000; }
+.ehtm ul ul a, .ehtm ul ul a:visited { display:block; background:#313139; color:#ffffff; width:12em; height:100%; line-height:1em; padding:0.5em 1em; }
+.ehtm ul table ul a,.ehtm ul table ul a:visited { width:12em; }
+.ehtm table {position:absolute; left:0; top:0; font-size:1em; z-index:-1;}
+.ehtm ul ul table {left:-1px;}
+.ehtm li:hover { position:relative; }
+* html .ehtm a:hover { position:relative; }
+.ehtm a:hover { color:#ffffff; background:#000006; }
+.ehtm :hover > a { color:#ffffff; background:#000006; }
+.ehtm ul ul a:hover{ color:#ffffff; background:#313139; }
+.ehtm ul ul :hover > a { color:#ffffff; background:#313139; }
+.ehtm ul ul ul a:hover { background:#313139; }
+.ehtm ul ul ul :hover > a { background:#313139; }
+.ehtm ul ul ul ul a:hover { background:#313139; }
+.ehtm ul ul { visibility:hidden; position:absolute; height:0; top:2em; left:0; width:14em; }
+.ehtm ul ul ul{ left:14em; top:0; width:14em; }
+.ehtm ul li:hover ul, .ehtm ul a:hover ul { visibility:visible; padding-bottom:3em; height:auto; background:transparent url(/images/trans.gif); }
+.ehtm ul :hover ul ul{ visibility:hidden; }
+.ehtm ul :hover ul :hover ul ul{ visibility:hidden; }
+.ehtm ul :hover ul :hover ul{ visibility:visible; }
+.ehtm ul :hover ul :hover ul :hover ul { visibility:visible; }
+#ehsm { margin:0 auto; position:relative; }
+#ehsm ul {margin:0; padding:0; list-style:none; white-space:nowrap; z-index:500000; }
+#ehsm li {margin:0; padding:0; list-style:none;}
+#ehsm li {display:inline-block; display:inline;}
+#ehsm ul {position:absolute; left:-9999px;}
+#ehsm ul.level1 { position:absolute; left:0px; top:0px; width:190px; background:#313139; }
+#ehsm a { display:block; color:#ffffff; line-height:22px; text-decoration:none; }
+#ehsm ul li:hover > ul {visibility:visible; left:100%; margin-top:-22px; margin-left:-1px; }
+#ehsm a:hover ul,
+#ehsm a:hover a:hover ul,
+#ehsm a:hover a:hover a:hover ul {left:100%; visibility:visible;}
+#ehsm a:hover ul ul,
+#ehsm a:hover a:hover ul ul {left:-9999px;}
+#ehsm li a:hover { background:#000006; color:#ffffff; }
+#ehsm li:hover > a {background:#000006; color:#ffffff; }
+#ehsm li a.fly { background:#313139; color:#ffffff; padding-left:1em; padding-right:2em; }
+#ehsm li a.fly:hover { background:#313139; color:#ffffff; }
+#ehsm li:hover > a.fly { background:#313139; color:#ffffff; }
+#ehsm table {position:absolute; left:99%; height:0; width:0; border-collapse:collapse; margin-top:-5px; margin-left:-1px;}
+.sel_top { color:#ffffff !important; background:#000006 !important; }
+.sel_side { color:#ffffff !important; background:#000006 !important; }
+.agenda_table { background:#313139; }
+.agenda_table.td { padding:2px; }
+.eh_outer_div { overflow:hidden; }
+.dates { clear:both; }
+.dates a { margin:0 0.2em 0.5em; padding:0.5em; background:#313139; display:block; float:left; }
+.dates .selected{ color:#ffffff; background:#313139; }
+.table_lodging_details td:nth-child(2) { word-break: break-word; }#additional-travel-table th, #additional-travel-table td { padding: 5px; }
+#additional-travel-table td.airport { text-align: center; }
+.paynowbutton{background:rebeccapurple;border-color: #abadb3 #dbdfe6 #dbdfe6 #abadb3;color: #ffffff;cursor: pointer;font-family: arial,helvetica,sans-serif;font-size: 13px;font-weight: bold;height: 24px;margin: 0 5px;padding: 0 0 4px;width: 130px;}
+@media print { .no-print { display: none } }
+.margin-right10 { margin-right : 10px !important; cursor: pointer !important; }
+</style>
+
+<style type="text/css" media="print">
+    .eh_outer_div {
+        overflow:visible;
+    }
+    .tabmenu {
+        display: none;
+    }
+    .languages {
+        display: none;
+    }
+</style>
+
+<script type="text/javascript" src="/include/scripts/prototype.js"></script>
+<script type="text/javascript" src="/include/scripts/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="/include/scripts/lightbox-web.js?v=1"></script>
+<link rel="stylesheet" href="/ehome/include/lightbox.css" type="text/css" media="screen" />
+<link type="text/css" rel="stylesheet" href="/themes/global/fonts.css"></head>
+<body>
+<input type="hidden" id="module" value="ehome" /><input type="hidden" id="eventid" value="200183029" /><table id="outer_table" width="750" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff"><tr><td align="center">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLCVF66"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header>
+        <div class="container">
+            <div class="event-logo">
+                <a href="http://www.events.great.gov.uk/200183029">
+                    <img src="https://eu.eventscloud.com/file_uploads/1571e149c17a7215311e0d2a796aad67_BIG.png" style="max-height:75px" alt="department for international trade">
+                </a>
+            </div>
+        </div>
+    </header>
+
+<button class="mobile-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+</button></td></tr><tr bgcolor="#313139" class="tabmenu"><td style="height:20px;"><div class="ehtm">
+<ul >
+<li><a href="/ehome/trade-events-calendar/home/"  class="sel_top">Home</a></li>
+<li><a href="/ehome/trade-events-calendar/all-events/"  >All Events</a></li>
+<li><a href="https://contact-us.export.great.gov.uk/directory/" target="_blank" >Contact Us</a></li>
+</ul>
+</div></td></tr><tr bgcolor="#313139" class="languages"><td class="header" align="right">
+&nbsp;</td>
+</tr><tr><td id="inner_content" valign="top" style="padding:10px;"><div class="eh_outer_div" style="width:730px;"><div id="header_section" style="width:730px;float:left;margin-bottom:10px;"><div id="content_201393159"><div style="width:100%;overflow:hidden">    <div class="page-loader">
+        <div class="loader">Loading...</div>
+    </div></div></div><div id="content_201447956"><table width="100%" cellspacing="0" cellpadding="2"><tr><td class="header" style="padding-bottom:10px;">imgToBackground calendar-header</td></tr></table><div style="height:600px;width:100%;overflow:hidden;text-align:left"><img src="/file_uploads/98d2c342419d11e53bd63b6ad4971e18_ekp_imv_backgroundv2-from-michale-at-120_1516641508.jpg" border="0" width="1200" /></div></div><div id="content_201447957"><table width="100%" cellspacing="0" cellpadding="2"><tr><td class="header" style="padding-bottom:10px;">header-txt</td></tr></table><div style="width:100%;overflow:hidden"><h1>Events</h1>
+
+<h2> </h2>
+
+<div class="search-wrapper"><!--span id="search-error" class="error-message">
+    Enter a search term
+  </span--><input id="search-field" placeholder="What sector or region are you interested in?" type="text" /><button class="btn btn-primary btn-no-margin" id="search-button">Search</button></div></div></div></div><div id="main_section" style="width:730px;float:left;margin-bottom:10px;"><div id="content_201393160"><table width="100%" cellspacing="0" cellpadding="2"><tr><td class="header" style="padding-bottom:10px;">row-start col-md-7 #top-section top-section new-section</td></tr></table><div style="width:100%;overflow:hidden"><h2>DIT and events</h2>
+
+<p>Events are one of the most effective ways to support companies looking for trade opportunities.<br />
+<br />
+DIT's calendar of events is updated regularly with both UK and overseas events as well as overseas missions, and opportunities across the Tradeshow Access Programme (TAP).<br />
+<br />
+<a class="btn btn-no-margin" href="https://www.events.great.gov.uk/ehome/trade-events-calendar/all-events/index.php?">Search all events</a></p></div></div><div id="content_201393161"><table width="100%" cellspacing="0" cellpadding="2"><tr><td class="header" style="padding-bottom:10px;">row-end col-sm-12 col-md-5</td></tr></table></div><div id="content_201393162"><table width="100%" cellspacing="0" cellpadding="2"><tr><td class="header" style="padding-bottom:10px;">row-start col-xs-12 colour-section </td></tr></table><div style="width:100%;overflow:hidden"><h2>Selected events</h2>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p></div></div><div id="content_201393170"><table width="100%" cellspacing="0" cellpadding="2"><tr><td class="header" style="padding-bottom:10px;">col-md-3 row-mid event-item</td></tr></table><div style="width:100%;overflow:hidden"><img alt="" src="http://eu.eventscloud.com/image.php?acc=200008108&id=200624034" />
+<p><a href="https://www.events.great.gov.uk/ehome/dit-ministerial-visits/about/index.php?&t=9e41da512111a053e9f6f735346ba0b7">International Ministerial Visits</a></p>
+
+<p>Over the next few months DIT Ministers will be visiting a diverse range of countries. Click through to the website to see the upcoming list of countries being visited.</p></div></div><div id="content_201393171"><table width="100%" cellspacing="0" cellpadding="2"><tr><td class="header" style="padding-bottom:10px;">col-md-3 row-mid event-item</td></tr></table><div style="width:100%;overflow:hidden"><img alt="" src="http://eu.eventscloud.com/image.php?acc=200008108&id=200625621" />
+<p><a href="https://www.events.great.gov.uk/ehome/index.php?eventid=200183473&">DIT's upcoming webinars</a></p>
+
+<p>DIT's free webinars are delivered by experts from both private and public sector organisations. The webinar topics range in export experience from never exported to experienced exporter.</p></div></div><div id="content_201393172"><table width="100%" cellspacing="0" cellpadding="2"><tr><td class="header" style="padding-bottom:10px;">col-md-3 row-mid event-item</td></tr></table><div style="width:100%;overflow:hidden"><img alt="" src="	http://eu.eventscloud.com/image.php?acc=200008108&id=200623484" />
+<p><a href="https://www.events.great.gov.uk/ehome/index.php?eventid=200183338&">Expo 2020 Dubai</a></p>
+
+<p>Expo 2020 Dubai is a great exhibition that will showcase the achievements of world nations. A festival of human ingenuity, Expo 2020 Dubai aims to create opportunities for all, wherever they live, to reinforce and re-energise progress towards a sustainable future. This includes tackling the growing skills gap and helping to combat youth unemployment.</p></div></div><div id="content_201393173"><table width="100%" cellspacing="0" cellpadding="2"><tr><td class="header" style="padding-bottom:10px;">col-md-3 row-mid event-item</td></tr></table><div style="width:100%;overflow:hidden"><img alt="" src="http://eu.eventscloud.com/image.php?acc=200008108&id=200625560" />
+<p><a href="http://www.events.great.gov.uk/bodw2019">Business of Design Week 2019</a></p>
+
+<p>Business of Design Week (BODW) is Asia's leading annual event on design, innovation and brands. As BODW's Partner Country for 2019, the UK will showcase the best of British design and demonstrate our leadership in creative thinking and design management.</p></div></div></div><div id="footer_section" style="width:730px;float:left;margin-bottom:10px;"><div id="content_201393167"><table width="100%" cellspacing="0" cellpadding="2"><tr><td class="header" style="padding-bottom:10px;">footer-top-section row-start col-xs-12 flex</td></tr></table><div style="width:100%;overflow:hidden"><div class="footer-logo">
+<img src="https://eu.eventscloud.com/file_uploads/9d72ec5eb90f2e2ca21c56c2d06ea1e5_DIT-BIG.png.png" alt="">
+</div>
+<div class="footer-menu"></div></div></div><div id="content_201393168"><table width="100%" cellspacing="0" cellpadding="2"><tr><td class="header" style="padding-bottom:10px;">footer-top-section row-end col-xs-12</td></tr></table><div style="width:100%;overflow:hidden"><ul class="footer-links">
+	<li><a href="https://great.gov.uk/about/" id="footer-site-links-about">About</a></li>
+	<li><a href="https://contact-us.export.great.gov.uk/directory/" id="footer-site-links-contact">Contact us</a></li>
+	<li><a href="https://great.gov.uk/privacy-and-cookies/" id="footer-site-links-privacy-and-cookies">Privacy and cookies</a></li>
+	<li><a href="https://great.gov.uk/terms-and-conditions/" id="footer-site-links-t-and-c">Terms and conditions for great.gov.uk</a></li>
+	<li><a href="https://eu.eventscloud.com/ehome/index.php?eventid=200183029&tabid=200452171">Event payment terms and conditions</a></li>
+	<li><a href="https://great.gov.uk/performance-dashboard/" id="footer-site-links-performance">Performance</a></li>
+	<li><a href="https://www.gov.uk/government/organisations/department-for-international-trade/" id="footer-site-links-dit">Department for International Trade on GOV.UK</a></li>
+</ul></div></div><div id="content_201393169"><table width="100%" cellspacing="0" cellpadding="2"><tr><td class="header" style="padding-bottom:10px;">footer-bottom-section row-start row-end col-xs-12</td></tr></table><div style="width:100%;overflow:hidden"><div class="pull-right"><p>© Crown copyright 2018. All rights reserved.</p></a></div></div></div></div>
+    <!-- Add sources for new widgets -->
+    
+
+</td>
+</tr>
+
+<script type="text/javascript">
+//Add iframe param to youtube src in order to work in all browsers
+var iframes = document.getElementsByTagName('iframe');
+for (var i = 0; i < iframes.length; i++) {
+    if (iframes[i].src.substr(0,22) == "http://www.youtube.com") {
+        iframes[i].src += iframes[i].src.indexOf('?') == -1 ? '?' : '&';
+        iframes[i].src += 'enablejsapi=1';
+    }
+}
+
+</script>
+</table>
+<div id="overlay" style="display:none;position:absolute;top:0px;left:0px;z-index:1000000;width:100%;height:100%;background-color:#000000;filter:alpha(opacity=75);-moz-opacity:.75;opacity:.75;"></div>
+
+<div id="home_od" style="display:none;position:absolute;top:0px;left:0px;z-index:1000001;background-color:#FFFFFF;border-1px solid #CCCCCC;">
+<table cellspacing="0" cellpadding="0" height="100%" width="100%">
+<tr bgcolor="#313139">
+<td height="25">
+<img src="/images/spacer.gif" height="25" width="1" align="left" />
+<span id="title" style="position:absolute;top:4px;left:10px;font-weight:bold;color:#FFFFFF;"></span>
+<img src="/images/close.png" border="0" onclick="close_overlay();" style="position:absolute;top:4px;right:4px;cursor:pointer;" />
+</td>
+</tr>
+<tr>
+<td height="100%" align="center" valign="top">
+<div id="home_id" style="overflow:scroll;">
+<img id="image" src="/images/spinner.gif" border="0" />
+<iframe src="about:blank" name="url" id="url" frameborder="0" style="display:none;" onload="iframeLoaded('url');"></iframe>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+</body>
+</html>
+
+
+

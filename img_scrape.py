@@ -4,10 +4,17 @@ from google_images_download import google_images_download
 # creating object
 response = google_images_download.googleimagesdownload()
 
-# search_queries = ['chinese_man_face','chinese_woman_face', 'chinese_male_face','chinese_female_face','chinese_adult_face','chinese_person_face', 
-# 'ghanaian_man_face','ghanaian_woman_face','ghanaian_male_face','ghanaian_female_face','ghanaian_adult_face','ghanaian_person_face']
+search_queries = ['chinese man face', 'chinese woman face', 'chinese man', 'chinese woman',
+                  'chinese adult face', 'chinese person', 'chinese person face', 'chinese adult', 'chinese child',
+                  'ghanaian man face', 'ghanaian woman face', 'ghanaian male face', 'ghanaian woman',
+                  'ghanaian adult face', 'ghanaian person face', 'ghanaian person', 'ghanaian adult', 'ghanaian child']
 
-search_queries = ['chinese_child_face', 'ghanaian_child_face']
+
+# search_queries = ['happy person', 'happy man', 'happy woman', 'happy child', 'happy smiling person',
+#                   'happy smiling man', 'happy smiling woman', 'happy smiling child',
+#                   'sad person', 'sad man', 'sad woman', 'sad child', 'sad frowning person',
+#                   'sad frowning man', 'sad frowning woman', 'sad frowning child',
+#                   ]
 
 
 def downloadimages(query):
@@ -38,8 +45,6 @@ def downloadimages(query):
 
         # Providing arguments for the searched query
         try:
-            # Downloading the photos based
-            # on the given arguments
             response.download(arguments)
         except:
             pass

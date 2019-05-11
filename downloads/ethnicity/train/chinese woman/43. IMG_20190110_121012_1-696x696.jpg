@@ -1,0 +1,1081 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+    <title>Nairobi Times | YOUR STORY, OUR STORY.</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://nairobitimez.co.ke/xmlrpc.php" />
+    <link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Nairobi Times &raquo; Feed" href="https://nairobitimez.co.ke/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Nairobi Times &raquo; Comments Feed" href="https://nairobitimez.co.ke/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nairobitimez.co.ke\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='google_font_open_sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&#038;ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_roboto-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C900%2C500italic%2C400%2C300&#038;ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://nairobitimez.co.ke/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='https://nairobitimez.co.ke/wp-content/themes/Newspaper/style.css?ver=7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://nairobitimez.co.ke/wp-content/plugins/jetpack/css/jetpack.css?ver=6.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://nairobitimez.co.ke/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://nairobitimez.co.ke/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://nairobitimez.co.ke/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nairobitimez.co.ke/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://nairobitimez.co.ke/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.10" />
+<link rel='shortlink' href='https://wp.me/a7T5p' />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://nairobitimez.co.ke/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://nairobitimez.co.ke/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Nairobi Times" />
+<meta property="og:description" content="YOUR STORY, OUR STORY." />
+<meta property="og:url" content="https://nairobitimez.co.ke/" />
+<meta property="og:site_name" content="Nairobi Times" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+
+<!-- End Jetpack Open Graph Tags -->
+
+<!-- JS generated by theme -->
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+            if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .post img";
+var td_ajax_url="https:\/\/nairobitimez.co.ke\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=7.1.1";
+var td_get_template_directory_uri="https:\/\/nairobitimez.co.ke\/wp-content\/themes\/Newspaper";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="11";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>
+    
+.td-footer-wrapper {
+        background-color: #ff3a3a;
+    }
+</style>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-8499956643081604",
+    enable_page_level_ads: true
+  });
+</script><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="home wpb-js-composer js-comp-ver-4.11.2 vc_responsive td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+    
+    <div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/Nairobi-TIMES-936919219683882/" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <a href="#"><i class="td-icon-close-mobile"></i></a>
+            </div>
+        </div>
+
+        <!-- login section -->
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-footer-container"><ul id="menu-footer" class="td-mobile-main-menu"><li id="menu-item-3835" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-first menu-item-3835"><a href="http://nairobitimez.co.ke/">Home</a></li>
+<li id="menu-item-3828" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3828"><a href="https://nairobitimez.co.ke/category/news/">News<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-3827" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3827"><a href="https://nairobitimez.co.ke/category/courts/">Courts</a></li>
+	<li id="menu-item-3829" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3829"><a href="https://nairobitimez.co.ke/category/county-news/">County News.</a></li>
+	<li id="menu-item-3830" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3830"><a href="https://nairobitimez.co.ke/category/international-news/">International News</a></li>
+</ul>
+</li>
+<li id="menu-item-3831" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3831"><a href="https://nairobitimez.co.ke/category/politics/">Politics</a></li>
+<li id="menu-item-3832" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3832"><a href="https://nairobitimez.co.ke/category/sports/">Sports</a></li>
+<li id="menu-item-3833" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3833"><a href="https://nairobitimez.co.ke/category/countynews/">Nutrition</a></li>
+<li id="menu-item-3834" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3834"><a href="https://nairobitimez.co.ke/category/health/">Health.</a></li>
+<li id="menu-item-4820" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4820"><a href="https://nairobitimez.co.ke/category/corporate-world/">CORPORATE WORLD</a></li>
+<li id="menu-item-4821" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4821"><a href="https://nairobitimez.co.ke/category/corruption-cases/">CORRUPTION CASES</a></li>
+<li id="menu-item-4822" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4822"><a href="https://nairobitimez.co.ke/category/taarifa-za-kiswahili/">TAARIFA ZA KISWAHILI</a></li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+    </div>    <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+	<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+		<form method="get" class="td-search-form" action="https://nairobitimez.co.ke/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<a href="#"><i class="td-icon-close-mobile"></i></a>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Search</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form>
+		<div id="td-aj-search-mob"></div>
+	</div>
+</div>    
+    
+    <div id="td-outer-wrap">
+    
+        <!--
+Header style 11
+-->
+
+<div class="td-header-wrap td-header-style-11">
+
+	<div class="td-header-top-menu-full">
+		<div class="td-container td-header-row td-header-top-menu">
+            
+    <div class="top-bar-style-1">
+        
+<div class="td-header-sp-top-menu">
+
+
+	<div class="menu-top-container"><ul id="menu-menu" class="top-header-menu"><li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-22"><a href="http://nairobitimez.co.ke">Home</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-25"><a href="https://nairobitimez.co.ke/category/countynews/">Nutrition</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-23"><a href="https://nairobitimez.co.ke/category/courts/">Courts</a></li>
+</ul></div></div>
+            </div>
+
+<!-- LOGIN MODAL -->
+
+                <div  id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
+                    <ul class="td-login-tabs">
+                        <li><a id="login-link" class="td_login_tab_focus">LOG IN</a></li>
+                    </ul>
+
+
+
+                    <div class="td-login-wrap">
+                        <div class="td_display_err"></div>
+
+                        <div id="td-login-div" class="">
+                            <div class="td-login-panel-title">Welcome! Log into your account</div>
+                            <input class="td-login-input" type="text" name="login_email" id="login_email" placeholder="your username" value="" required>
+                            <input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" placeholder="your password" required>
+                            <input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Log In">
+
+
+                            <div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password?</a></div>
+
+
+                        </div>
+
+                        
+
+                         <div id="td-forgot-pass-div" class="td-display-none">
+                            <div class="td-login-panel-title">Recover your password</div>
+                            <input class="td-login-input" type="text" name="forgot_email" id="forgot_email" placeholder="your email" value="" required>
+                            <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Pass">
+                        </div>
+
+
+
+
+                    </div>
+                </div>
+                		</div>
+	</div>
+
+    <div class="td-header-menu-wrap-full">
+        <div class="td-header-menu-wrap td-header-gradient">
+            <div class="td-container td-header-row td-header-main-menu">
+                <div id="td-header-menu" role="navigation">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo td-logo-in-header">
+            </div>
+    <div class="menu-footer-container"><ul id="menu-footer-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-3835"><a href="http://nairobitimez.co.ke/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-3828"><a href="https://nairobitimez.co.ke/category/news/">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3827"><a href="https://nairobitimez.co.ke/category/courts/">Courts</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3829"><a href="https://nairobitimez.co.ke/category/county-news/">County News.</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3830"><a href="https://nairobitimez.co.ke/category/international-news/">International News</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3831"><a href="https://nairobitimez.co.ke/category/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3832"><a href="https://nairobitimez.co.ke/category/sports/">Sports</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3833"><a href="https://nairobitimez.co.ke/category/countynews/">Nutrition</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3834"><a href="https://nairobitimez.co.ke/category/health/">Health.</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4820"><a href="https://nairobitimez.co.ke/category/corporate-world/">CORPORATE WORLD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4821"><a href="https://nairobitimez.co.ke/category/corruption-cases/">CORRUPTION CASES</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4822"><a href="https://nairobitimez.co.ke/category/taarifa-za-kiswahili/">TAARIFA ZA KISWAHILI</a></li>
+</ul></div></div>
+
+
+<div class="td-search-wrapper">
+    <div id="td-top-search">
+        <!-- Search -->
+        <div class="header-search-wrap">
+            <div class="dropdown header-search">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+                <a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="header-search-wrap">
+	<div class="dropdown header-search">
+		<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+			<form method="get" class="td-search-form" action="https://nairobitimez.co.ke/">
+				<div role="search" class="td-head-form-search-wrap">
+					<input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+				</div>
+			</form>
+			<div id="td-aj-search"></div>
+		</div>
+	</div>
+</div>            </div>
+        </div>
+    </div>
+
+    <div class="td-banner-wrap-full td-logo-wrap-full ">
+        <div class="td-header-sp-logo">
+                <span class="td-logo-text-container">
+		<a class="td-logo-wrap" href="https://nairobitimez.co.ke/">
+			<h1 class="td-logo">				<span class="td-logo-text">Nairobi Times</span>
+			</h1>			<span class="td-tagline-text">YOUR STORY, OUR STORY</span>
+		</a>
+    </span>
+	        </div>
+    </div>
+
+    <div class="td-banner-wrap-full td-banner-bg">
+        <div class="td-container-header td-header-row td-header-header">
+            <div class="td-header-sp-recs">
+                <div class="td-header-rec-wrap">
+    
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-header">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8499956643081604" data-ad-slot=""></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-8499956643081604" data-ad-slot=""></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-8499956643081604" data-ad-slot=""></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:320px;height:50px" data-ad-client="ca-pub-8499956643081604" data-ad-slot=""></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+
+</div>            </div>
+        </div>
+    </div>
+
+</div>
+<div class="td-main-content-wrap">
+
+    <div class="td-container td-blog-index ">
+        <div class="td-crumb-container">
+            <div class="entry-crumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="https://nairobitimez.co.ke/"><span itemprop="title">Home</span></a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content = "Blog"><meta itemprop="url" content = "https://nairobitimez.co.ke/2019/05/11/trio-in-tatu-city-fight-not-off-hook-yet/">Blog</span></div>        </div>
+        <div class="td-pb-row">
+                                    <div class="td-pb-span8 td-main-content">
+                            <div class="td-ss-main-content">
+                                
+        <div class="td_module_15 td-animation-stack post-11532 post type-post status-publish format-standard has-post-thumbnail hentry category-business category-courts tag-director-of-public-prosecution tag-forgery tag-kofinaf-company-ltd tag-registrar-of-companies tag-rosemary-wanja-mwagiru tag-senior-counsel-ahmednassir-abdullahi tag-stephen-mbugua-mwagiru tag-tatu-city">
+            <div class="item-details">
+                <h1 class="entry-title"><a href="https://nairobitimez.co.ke/2019/05/11/trio-in-tatu-city-fight-not-off-hook-yet/" rel="bookmark" title="TRIO IN TATU CITY FIGHT NOT OFF-HOOK YET.">TRIO IN TATU CITY FIGHT NOT OFF-HOOK YET.</a></h1>
+                <div class="td-module-meta-info">
+	                                    <div class="td-post-author-name">By <a href="https://nairobitimez.co.ke/author/admin/">Nairobi Times</a> - </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-05-11T12:39:48+00:00" >May 11, 2019</time></span>                    <div class="td-post-comments"><a href="https://nairobitimez.co.ke/2019/05/11/trio-in-tatu-city-fight-not-off-hook-yet/#respond"><i class="td-icon-comments"></i>0</a></div>                </div>
+
+                <div class="td-post-featured-image"><figure><a href="https://nairobitimez.co.ke/2019/05/11/trio-in-tatu-city-fight-not-off-hook-yet/"><img width="428" height="270" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2019/05/IMG_20181128_183609_834.jpg" alt="" title="File photo"/></a><figcaption class="wp-caption-text">Tatu City pioneer partners Stephen Mbugua Mwagiru and Rosemary Wanja Mwagiru before a Nairobi Court/FILE PHOTO</figcaption></figure></div>
+	            <div class="td-post-text-content td-post-content">
+		            <p>BY SAM ALFAN.</p>
+<p style="font-weight: 400;">The owners of the Sh 240billion Tatu City project have succeeded in reviving an eight year old criminal case against pioneer partners Stephen Mbugua Mwagiru and his mother Rosemary Wanja Mwagiru.</p>
+<p style="font-weight: 400;">The parent company, Tatu City Ltd and its main subsidiary Kofinaf Company Ltd, convinced the Court of Appeal judges that High Court Judge Mumbi Ngugi should not have blocked the prosecution of the Mwagirus and lawyer Robert Githu for forgery and presenting false documents.</p>
+<p style="font-weight: 400;">Appellate Judges Wanjiru Karanja, Patrick Kiage and Fatuma Sichale ruled that Justice Ngugi “was plainly wrong” and “committed a reversible error of law” when she shielded the trio from facing justice.</p>
+<p style="font-weight: 400;">&#8220;The decision of the High Court is set aside and substituted by an order dismissing the petition with costs&#8221;, the judges ruled.</p>
+<p>In their 31 page judgment, The learned judges said that the stoppage or truncation of criminal charges, cases, investigations and processes must issue only in exceptional circumstances, and not willy-nilly so long as an accused person complains, notwithstanding that he has not demonstrated the abuse of process or oppression complained of with satisfactory evidence.</p>
+<p style="font-weight: 400;">They said it was against public interest and offensive to the criminal justice system for accused persons to seek protection without demonstrating compelling reasons to justify exemption from prosecution.</p>
+<p style="font-weight: 400;">The Mwagirus and their lawyer had been charged with forging Forms CR12 and a letter from the Registrar of Companies alleging they were the genuine directors of the troubled company.</p>
+<p style="font-weight: 400;">But Justice Ngugi stopped the trial in 2013 saying the trio’s prosecution was not an honest enforcement of law and an order of prohibition was sufficient to stop the blatant abuse of the court process.</p>
+<p style="font-weight: 400;">The court, she said, could not entertain “a galloping litigant” who was ready to use the criminal justice system to pursue a purely commercial dispute, she said.</p>
+<p style="font-weight: 400;">The two firms, represented by Senior Counsel Ahmednassir Abdullahi, were aggrieved by Justice Ngugi’s decision delivered on November 12, 2013 stopping the two-count indictment against the three on the basis that it amounted to an abuse of the court process.</p>
+<p style="font-weight: 400;">The trio was alleged to have forged a report by Assistant Registrar of Companies, Wilson Gikonyo, on June 11, 2010 that was used to register caveats on nine prime properties belonging to the firms. The Mwagirus had claimed to have been the sole shareholders and directors of Tatu City Ltd, which was previously known as Waguthu Holdings (K) Ltd, and applied to block any transactions on the land.</p>
+<p style="font-weight: 400;">Ahmednassir had argued there were no valid reasons and justification to terminate the criminal case, which was instituted on December 6, 2010 since Justice Mumbi did not exonerate the accused persons from criminal liability regarding the contentious Companies Registry form used to register the blockade. The caveats were eventually removed administratively although the Director of Public Prosecutions (DPP) is at liberty to re-open the cases, he said.</p>
+<p style="font-weight: 400;">SC Ahmednassir recalled that Justice Fred Ochieng had dismissed an application by the three persons for conservatory orders on October 24, 2011 for lack of sufficient evidence to demonstrate that the DPP or the police were acting under the influence of interested parties in filing the criminal case.</p>
+<p style="font-weight: 400;">The Mwagirus ceased to be directors of Waguthu Holdings (now Tatu City Ltd) from March 4, 2009 and transferred all their shares, except one, to Cedar IV Ltd. Similarly, they resigned as Tatu City board members.</p>
+<p style="font-weight: 400;">Lawyer Kamau Kuria had protested that the criminal case was meant to coerce and intimidate the Mwagirus to withdraw two commercial disputes in which they were seeking the winding up of the companies. The DPP was working in cahoots with foreign investors to exert illegal pressure on the Mwagirus to remove the caveats, he had claimed.</p>
+<p style="font-weight: 400;">He maintained that the two companies had no right of appeal after the DPP had chosen to drop the case following the court’s intervention. “This is an academic exercise.</p>
+<p style="font-weight: 400;">The DPP works independently and has not filed an appeal,” he had said.</p>
+<p style="font-weight: 400;">
+	            </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_15 td-animation-stack post-11525 post type-post status-publish format-standard has-post-thumbnail hentry category-courts tag-babykiano tag-justiceforbabykiano tag-activist-boniface-mwangi tag-american-coupl tag-american-couple tag-daisy-louise-mazzoncini tag-dci-kenya tag-mathew-sean-mazzoncini">
+            <div class="item-details">
+                <h1 class="entry-title"><a href="https://nairobitimez.co.ke/2019/05/10/baby-kianos-case-to-be-heard-next-week/" rel="bookmark" title="BABY KIANO&#8217;S CASE TO BE HEARD NEXT WEEK.">BABY KIANO&#8217;S CASE TO BE HEARD NEXT WEEK.</a></h1>
+                <div class="td-module-meta-info">
+	                                    <div class="td-post-author-name">By <a href="https://nairobitimez.co.ke/author/admin/">Nairobi Times</a> - </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-05-10T15:13:57+00:00" >May 10, 2019</time></span>                    <div class="td-post-comments"><a href="https://nairobitimez.co.ke/2019/05/10/baby-kianos-case-to-be-heard-next-week/#respond"><i class="td-icon-comments"></i>0</a></div>                </div>
+
+                <div class="td-post-featured-image"><figure><a href="https://nairobitimez.co.ke/2019/05/10/baby-kianos-case-to-be-heard-next-week/"><img width="696" height="392" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2019/05/0_2019-05-10_18.08.26-696x392.jpg" alt="" title="NairobiTimez"/></a><figcaption class="wp-caption-text">Lawyer updating journalists outside Milimani Law Courts accompanied by group of demonstrators./PHOTO BY S.A.N.</figcaption></figure></div>
+	            <div class="td-post-text-content td-post-content">
+		            <p>BY NT REPORTER.</p>
+<p style="font-weight: 400;">The hearing of a case involving the adoption of a child known baby Kiano has been pushed to May 14.</p>
+<p style="font-weight: 400;">The matter could not proceed as anticipated because judges were not sitting. In the case, the three-year-old baby was officially adopted in 2017 by an American couple, Mathew Sean Mazzoncini and Daisy Louise Mazzoncini.</p>
+<p style="font-weight: 400;">The child was, however, taken by officers from the Directorate of Criminal Investigations. According to the couple, 13 people with head gears stormed into their residence in Westlands, intimidated them and ordered them to sit down or else they would force them to.</p>
+<p style="font-weight: 400;">They say that one of the men had a video camera, and was recording the whole escapade without their consent. The men apparently identified themselves as police officers.</p>
+<p style="font-weight: 400;">The abductors asked them about their relationship with the child and in reply, they told the cops that they were the minor’s legal guardians. However the men accused them of fraudulently obtaining the order, alleging that it was illegal.</p>
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='640' height='360' src='https://www.youtube.com/embed/FYECOoXSWK8?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></p>
+<p style="font-weight: 400;">They took the child while sleeping and hurriedly went into their waiting car and took off.</p>
+<p style="font-weight: 400;">According to the Mazzoncinis, their advocate advised them to report the matter to the nearest police station (Spring Valley Police Station) but on arrival, they were told that a report had already been made and that they could not make another one. They were then directed to go to the CID department at Muthaiga.</p>
+<p style="font-weight: 400;">Their lawyer, however, asked them not to go as he sought assistance from the Kenya National Commission for Human Rights.</p>
+<p style="font-weight: 400;">Through the organisations assistance together with an advocate identified as Veronica, they were able to gather from Spring Valley Police Station that the DCI officers acted on allegations of child trafficking launched by the Child Welfare Society of Kenya (CWSK) and a Mr. Baraza had authorized the &#8216;rescue&#8217;.</p>
+<p style="font-weight: 400;">The couple has not been allowed access to the minor and they are concerned about his welfare since he has medical conditions that keeps him on constant medication.</p>
+<p style="font-weight: 400;">The minor is on anti-seizure medication which he takes three times a day and when the couple tried to give the Spring Valley officers his medication to take to him, they refused claiming they did not know where the minor was.</p>
+<p style="font-weight: 400;">The couple met the minor through a family friend, Gathoni Hamilton Foster during a visit to Kenya with her mother.</p>
+<p style="font-weight: 400;">He was sickly had the couple have been catering for his medical bills. Before the adoption, the baby was found discarded in a trash bag and left to die.</p>
+<p style="font-weight: 400;">Activist Boniface Mwangi who has actively been campaigning for the release of the minor says CWSK CEO Irene Mureithi is running the cartel that targets people like the Mazzoncinis.</p>
+	            </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_15 td-animation-stack post-11522 post type-post status-publish format-standard has-post-thumbnail hentry category-courts tag-mohammed-akabar-rashi tag-yulian-pentrov-stankov-bulgarian">
+            <div class="item-details">
+                <h1 class="entry-title"><a href="https://nairobitimez.co.ke/2019/05/10/two-to-be-probed-in-claims-of-falsely-obtaining-money/" rel="bookmark" title="TWO TO BE PROBED IN CLAIMS OF FALSELY OBTAINING MONEY.">TWO TO BE PROBED IN CLAIMS OF FALSELY OBTAINING MONEY.</a></h1>
+                <div class="td-module-meta-info">
+	                                    <div class="td-post-author-name">By <a href="https://nairobitimez.co.ke/author/admin/">Nairobi Times</a> - </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-05-10T14:11:39+00:00" >May 10, 2019</time></span>                    <div class="td-post-comments"><a href="https://nairobitimez.co.ke/2019/05/10/two-to-be-probed-in-claims-of-falsely-obtaining-money/#respond"><i class="td-icon-comments"></i>0</a></div>                </div>
+
+                <div class="td-post-featured-image"><figure><a href="https://nairobitimez.co.ke/2019/05/10/two-to-be-probed-in-claims-of-falsely-obtaining-money/"><img width="696" height="348" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2019/05/IMG_20190510_170949-696x348.jpg" alt="" title="NairobiTimez"/></a><figcaption class="wp-caption-text">Mohammed Akabar Rashi and Yulian Pentrov Stankov (Bulgarian) while waiting to appear before a Magistrate on Friday May 10,2019./PHOTO BY S.A.N.</figcaption></figure></div>
+	            <div class="td-post-text-content td-post-content">
+		            <div id="m-4827067411297717884" class="mail-message expanded">
+<div class="mail-message-header spacer">BY NT CORRESPONDENT.</div>
+<div class="mail-message-content collapsible zoom-normal mail-show-images ">
+<div class="clear">
+<div dir="auto">
+<div dir="auto"></div>
+<div dir="auto"></div>
+<div dir="auto">
+<p>Two businessmen were arraigned in court over allegations of obtaining money by false pretenses.</p>
+<p>Mohammed Akabar Rashi and Yulian Pentrov Stankov (Bulgarian) were arrested on May 9, at Lavington Mall in Nairobi in connection with the offence.</p>
+<p>In an application before a Nairobi court, the investigators asked to be allowed to detain the two for five days, as they complete investigations.</p>
+<p>&#8220;Several exhibits namely mobile phones and profoma invoice for Africargo Limited were recovered,&#8221; said investigation officer Stanley Musembi.</p>
+<p>The court heard that the phones need to be taken for forensic examination at the cybercrime unit while the invoices need to be authenticated by the Registrar of Companies.</p>
+<p>The investigators believe Stankov is a foreigner and his nationality is unknown since he did not have any identification documents. The officer said he needed to contact Immigration Department to verify his documentation.</p>
+<p>The court however ordered that Stankov be detained for three days at Gigiri police station while Rashi was released on cash bail of Sh 50,000 and directed to report to the Investigating officer on daily basis.</p>
+<p><span style="font-family: maiandra gd, sans-serif;">Investigating officers applied the two to be detained for five days pending investigations into alleged offence.</span></p>
+<p><span style="font-family: maiandra gd, sans-serif;">The matter to be mentioned next week.</span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="mail-message-footer spacer collapsible"></div>
+</div>
+<div id="conversation-footer" class="spacer"></div>
+	            </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_15 td-animation-stack post-11516 post type-post status-publish format-standard has-post-thumbnail hentry category-courts tag-julius-matheka tag-kapiti-plains-estate-limited-a-parcel">
+            <div class="item-details">
+                <h1 class="entry-title"><a href="https://nairobitimez.co.ke/2019/05/09/trader-charged-with-defrauding-kapiti-plains-estate-sh-54-billion/" rel="bookmark" title="TRADER CHARGED WITH DEFRAUDING KAPITI PLAINS ESTATE SH 54 BILLION.">TRADER CHARGED WITH DEFRAUDING KAPITI PLAINS ESTATE SH 54 BILLION.</a></h1>
+                <div class="td-module-meta-info">
+	                                    <div class="td-post-author-name">By <a href="https://nairobitimez.co.ke/author/admin/">Nairobi Times</a> - </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-05-09T17:49:16+00:00" >May 9, 2019</time></span>                    <div class="td-post-comments"><a href="https://nairobitimez.co.ke/2019/05/09/trader-charged-with-defrauding-kapiti-plains-estate-sh-54-billion/#respond"><i class="td-icon-comments"></i>0</a></div>                </div>
+
+                <div class="td-post-featured-image"><figure><a href="https://nairobitimez.co.ke/2019/05/09/trader-charged-with-defrauding-kapiti-plains-estate-sh-54-billion/"><img width="696" height="568" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2019/05/IMG-20190509-WA0065-696x568.jpg" alt="" title="NairobiTimez"/></a><figcaption class="wp-caption-text">Julius Matheka before Milimani Magistrate Court.</figcaption></figure></div>
+	            <div class="td-post-text-content td-post-content">
+		            <p>BY NT CORRESPONDENT.</p>
+<div id="m-8689259040062096482" class="mail-message expanded">
+<div class="mail-message-header spacer"></div>
+<div class="mail-message-content collapsible zoom-normal mail-show-images ">
+<div class="clear">
+<div dir="auto">
+<div dir="auto">
+<p>A businessman has been charged before a Nairobi court with defrauding Kapiti Plains Estate a parcel of land worth Sh 54.8 billion.</p>
+<p>The accused person Julius Matheka appeared before Milimani Chief Magistrate Martha Mutuku and pleaded guilty to conspiracy to defraud charges.</p>
+<p>Prosecution alleges that on or before January 20, 2017 within Nairobi County conspiracy to defraud Kapiti Plains Estate Limited a parcel of land worth Kshs. 54.8 billlion.</p>
+<p>He is also facing a second charge of making a false allotment letter dated August 23,1994 for a parcel of land in the name of New Konza Ranch Association, purporting it to be a genuine letter of allotment issued by Commissioner of lands.</p>
+<p>The accused person informed the court that he is having another similar case pending in court where he was released on Sh 300,000.</p>
+<p>Through his lawyer, Matheka urged the court to have the two matters consolidated.</p>
+<p>However the magistrate order the accused to be released on a bond of Sh 1 million or a cash bail of Sh 300,000.</p>
+<p>The case will be mentioned on May 30, 2019 for consolidation and pretrial.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+	            </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_15 td-animation-stack post-11513 post type-post status-publish format-standard has-post-thumbnail hentry category-courts tag-benson-odour-ngesa tag-dpp tag-kebs">
+            <div class="item-details">
+                <h1 class="entry-title"><a href="https://nairobitimez.co.ke/2019/05/09/dpp-allows-the-release-of-fertiliser-alleged-to-contain-mercury-as-he-drops-charges-against-five/" rel="bookmark" title="DPP ALLOWS THE RELEASE OF FERTILISER ALLEGED TO CONTAIN MERCURY AS HE DROPS CHARGES AGAINST FIVE.">DPP ALLOWS THE RELEASE OF FERTILISER ALLEGED TO CONTAIN MERCURY AS HE DROPS CHARGES AGAINST FIVE.</a></h1>
+                <div class="td-module-meta-info">
+	                                    <div class="td-post-author-name">By <a href="https://nairobitimez.co.ke/author/admin/">Nairobi Times</a> - </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-05-09T11:06:57+00:00" >May 9, 2019</time></span>                    <div class="td-post-comments"><a href="https://nairobitimez.co.ke/2019/05/09/dpp-allows-the-release-of-fertiliser-alleged-to-contain-mercury-as-he-drops-charges-against-five/#respond"><i class="td-icon-comments"></i>0</a></div>                </div>
+
+                <div class="td-post-featured-image"><figure><a href="https://nairobitimez.co.ke/2019/05/09/dpp-allows-the-release-of-fertiliser-alleged-to-contain-mercury-as-he-drops-charges-against-five/"><img width="696" height="522" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2019/05/0_IMG-20190509-WA0030-696x522.jpg" alt="" title="NairobiTimez"/></a><figcaption class="wp-caption-text">Benson Odour Ngesa who is among discharged accused person.</figcaption></figure></div>
+	            <div class="td-post-text-content td-post-content">
+		            <p>BY SAM ALFAN.</p>
+<p>Five accused persons have been acquitted of attempted murder charges in the case relating to the consignment of fertilizer alleged to contain mercury.</p>
+<p>Director of Public Prosecutions dropped the charges against Benson Oduor Ngesa, Karim Lofti Senhadji, Malika Kirama, Younese Addou and OCP Kenya Limited.</p>
+<p>&#8220;The court hereby adopt the plea agreement by the prosecution&#8221;, ruled Magistrate.</p>
+<p>This is after the DPP signed a plea bargain with Senior Counsel Paul Muite before Senior Principal Magistrate Kenneth Cheruiyot.</p>
+<p>&#8220;The entire criminal charge against the five accused persons be marked as withdrawn under section 87 (a) of the Criminal Procedure Code,&#8221; states the plea agreement.</p>
+<p>Through Senior Assistant Director of Public Prosecution Alexander Muteti, the DPP said he entered the agreement without prejudice to the criminal case 1151/2018 as against the other six accused persons.</p>
+<p>He said the move was necessitated by availability of new facts to the prosecution by the accused persons that clearly indicates that the decision to charge them was made without the full benefit of the full factual scenario being provided to the investigators and the prosecution.</p>
+<p>The court heard the decision to charge Karim Lofti Senhadji, Malika Kirama, Younese Addou and OCP was made because they were out of jurisdiction but they later provided information and documents that have given a new dimension to the matter, prompting a review of decision to charge them.</p>
+<p>He said the terms of the plea bargaining agreement are that the acquitted persons shall unconditionally withdraw the application filed by Ngesa and supported by the other four accused persons, seeking the retesting of the fertilizer that is the subject of the criminal trial.</p>
+<p>The DPP also agreed to release the fertilizer being held a Ballore warehouse in Mombasa. &#8220;It is agreed between the parties and the DPP that the investigating officer shall concurrently release the impounded consignment of fertilizer held at Ballore warehouse in Mombasa to OCP (K),&#8221; states the agreement.</p>
+<p>The court heard that at the time of filing the plea agreement, the acquitted persons had not recorded their statements and supply the necessary supporting documentation, information and evidence to the investigating officer.</p>
+<p>The agreement said the parties shall fully cooperate with the DPP in seeking justice in relation to this matter and the parties undertake not to lay any claim for damages or any other relief as a result of the action taken by the government in pursuit of or related to investigations and prosecution of his case in future either locally or internationally.</p>
+	            </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_15 td-animation-stack post-11510 post type-post status-publish format-standard has-post-thumbnail hentry category-courts tag-collins-neriko tag-james-luambe-odete tag-robert-omwenga-momanyi tag-stanley-rimbere">
+            <div class="item-details">
+                <h1 class="entry-title"><a href="https://nairobitimez.co.ke/2019/05/09/one-more-charged-with-assault-on-man-on-labour-day/" rel="bookmark" title="ONE MORE CHARGED WITH ASSAULT ON MAN ON LABOUR DAY.">ONE MORE CHARGED WITH ASSAULT ON MAN ON LABOUR DAY.</a></h1>
+                <div class="td-module-meta-info">
+	                                    <div class="td-post-author-name">By <a href="https://nairobitimez.co.ke/author/admin/">Nairobi Times</a> - </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-05-09T06:46:10+00:00" >May 9, 2019</time></span>                    <div class="td-post-comments"><a href="https://nairobitimez.co.ke/2019/05/09/one-more-charged-with-assault-on-man-on-labour-day/#respond"><i class="td-icon-comments"></i>0</a></div>                </div>
+
+                <div class="td-post-featured-image"><figure><a href="https://nairobitimez.co.ke/2019/05/09/one-more-charged-with-assault-on-man-on-labour-day/"><img width="696" height="648" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2019/05/IMG_20190509_094208-696x648.jpg" alt="" title="IMG_20190509_094208"/></a><figcaption class="wp-caption-text">James Luambe Odete before Milimani Magistrate court where he pleaded not guilty to assault charge.</figcaption></figure></div>
+	            <div class="td-post-text-content td-post-content">
+		            <p>BY NT CORRESPONDENT.</p>
+<p>One more person has been charged in connection with the assault of a man whose video went viral on social media during Labour Day as he was beaten mercilessly.</p>
+<p>James Luambe Odete was charged with unlawfully causing grievous harm to Kevin Mango Oduor on May 1. The offence was committed at Estate 24 along Kirichwa road in Kilimani area, Nairobi.</p>
+<p>Four other people, among them a 2017 parliamentary candidate were charged on with the same offence.</p>
+<p>The four Robert Omwenga Momanyi, Collins Neriko, Stanley Rimbere and Stephen Kimeu were arrested over the weekend and charged on Monday.</p>
+<p>The victim alleges that here is bad blood between him and the accused person after revealing some secrets about one of them.</p>
+<p>The assault allegedly began on Wednesday around 4 pm and went on until Thursday morning.</p>
+<p>The all denied the charge and were released on a cash bail of Sh 300,000.</p>
+<p>The matters will be mentioned on May 20 for consolidation and pre-trial.</p>
+	            </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_15 td-animation-stack post-11505 post type-post status-publish format-standard has-post-thumbnail hentry category-courts tag-assa-nyakundi tag-director-of-criminal-investigation tag-lydia-nyakundi">
+            <div class="item-details">
+                <h1 class="entry-title"><a href="https://nairobitimez.co.ke/2019/05/07/it-is-within-my-powers-to-review-lawyer-nyakundis-case-dpp-says/" rel="bookmark" title="IT IS WITHIN MY POWERS TO REVIEW LAWYER NYAKUNDI&#8217;S CASE; DPP SAYS.">IT IS WITHIN MY POWERS TO REVIEW LAWYER NYAKUNDI&#8217;S CASE; DPP SAYS.</a></h1>
+                <div class="td-module-meta-info">
+	                                    <div class="td-post-author-name">By <a href="https://nairobitimez.co.ke/author/admin/">Nairobi Times</a> - </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-05-07T20:00:39+00:00" >May 7, 2019</time></span>                    <div class="td-post-comments"><a href="https://nairobitimez.co.ke/2019/05/07/it-is-within-my-powers-to-review-lawyer-nyakundis-case-dpp-says/#respond"><i class="td-icon-comments"></i>0</a></div>                </div>
+
+                <div class="td-post-featured-image"><figure><a href="https://nairobitimez.co.ke/2019/05/07/it-is-within-my-powers-to-review-lawyer-nyakundis-case-dpp-says/"><img width="425" height="262" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2019/05/ASSPIC.jpg" alt="" title="Nyakundi at Makandara"/></a><figcaption class="wp-caption-text">City lawyer Assa Nyakundi before Makandara Law Courts on Thursday April 25,2019.</figcaption></figure></div>
+	            <div class="td-post-text-content td-post-content">
+		            <p>BY SAM ALFAN.</p>
+<p>Director of Criminal Investigation George Kinoti is investigating conspiracy to defeat justice against the wife of lawyer Assa Nyakundi, who is accused of shooting his son dead.</p>
+<p>This is after Lydia Kunga Nyakundi filed a petition challenging DPP&#8217;s move to withdraw manslaughter charge against Nyakundi. She has protested against the decision saying she was not consulted as a victim.</p>
+<p>In the response to the petition, Corporal Reuben Mwaniki attached to DCI headquarters told the court that the crime scene reconstruction report , ballistic report and accused persons statements clearly demonstrate the bullet trajectory and details a scenario which requires further analysis for an appropriate decision.</p>
+<p>&#8220;I believe that the decision to review the charges constitutionally placed upon Director of Public Prosecution Noordin Haji and Lydia Kunga Nyakundi is a prosecution witness is not objective to determine when and how charges should be reviewed,&#8221; said Cpl Mwaniki.</p>
+<p>He added that the Lydia being wife to the accused person and the mother of deceased is a competent and compellable witness under the Evidence Act and DPP has not infringed on her right during the period of the investigation. He said the DPP has no intention of doing so.</p>
+<p>The detective in his affidavit told the court several that prosecution witnesses have recorded their statement including Noah Onsumu Nyakundi an advocate and brother to the deceased, Titus Ogamba Nyakundi, an uncle to the deceased and who are also victims.</p>
+<p>He dismissed the petition and the application saying it has no legal or factual basis.</p>
+<p>DCI and DPP said that the substratum of the petition is premised on media, innuendo, conjecture, rumours, suspicion which are not attributed to them at all and which cannot be the basis for grant of any of the orders she has sought.</p>
+<p>They said the lawyer&#8217;s wife has failed to demonstrate how the DPP and DCI have breached or threatened to breach her rights and that she is only inviting the court to unjustly interfere with and usurp the constitutional powers.</p>
+<p>He said application should be dismissed with costs and the criminal trial against Nyakundi allowed to proceed to its logical conclusion.</p>
+<p>&#8220;The orders sought for a declaration that there was selective omission to investigate is not supported by evidence,&#8221; he said.</p>
+<p>The DPP told the court there is no live grievance between lawyer&#8217;s wife and DCI for calling for intervention of the court.</p>
+<p>Through Senior Prosecutor Henry Kinyanjui, prosecution told the court the notice of motion does not disclose a prima facie case to warrant issuance of the orders sought.</p>
+	            </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_15 td-animation-stack post-11495 post type-post status-publish format-standard has-post-thumbnail hentry category-county-news category-courts tag-beatrice-alachi tag-nairobi-city-county-assembly tag-nairobi-city-county-assembly-speaker-beatrice-elachi">
+            <div class="item-details">
+                <h1 class="entry-title"><a href="https://nairobitimez.co.ke/2019/05/07/elachi-retains-seat-after-labour-court-confirms-her-as-nairobi-county-speaker/" rel="bookmark" title="ELACHI RETAINS SEAT AFTER LABOUR COURT CONFIRMS HER AS NAIROBI COUNTY SPEAKER.">ELACHI RETAINS SEAT AFTER LABOUR COURT CONFIRMS HER AS NAIROBI COUNTY SPEAKER.</a></h1>
+                <div class="td-module-meta-info">
+	                                    <div class="td-post-author-name">By <a href="https://nairobitimez.co.ke/author/admin/">Nairobi Times</a> - </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-05-07T16:20:44+00:00" >May 7, 2019</time></span>                    <div class="td-post-comments"><a href="https://nairobitimez.co.ke/2019/05/07/elachi-retains-seat-after-labour-court-confirms-her-as-nairobi-county-speaker/#respond"><i class="td-icon-comments"></i>0</a></div>                </div>
+
+                <div class="td-post-featured-image"><figure><a href="https://nairobitimez.co.ke/2019/05/07/elachi-retains-seat-after-labour-court-confirms-her-as-nairobi-county-speaker/"><img width="696" height="522" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2019/05/1760180-696x522.jpg" alt="" title="N"/></a><figcaption class="wp-caption-text">Nairobi City County assembly Speaker Beatrice Elachi.</figcaption></figure></div>
+	            <div class="td-post-text-content td-post-content">
+		            <p>BY SAM ALFAN</p>
+<div id="m-4774884168153743565" class="mail-message expanded">
+<div class="mail-message-header spacer">
+<p>Nairobi City County assembly Speaker Beatrice Elachi retains her job after Employment and Labour relations court has dismissed a decision by City County Assembly members to impeach her.</p>
+<p>In her ruling, Justice Maureen Onyango also restrained the assembly from interfering with the terms of employment of Elachi as the speaker of Nairobi City County Assembly in consequence of the unlawful purported impeachment of September 6,2018.</p>
+<p>The County Assembly and Nairobi County Government were furtger prohibited from carrying out a process to remove Elachi without complying with the law, Constitution, due process and according her a hearing without following applicable standing orders.</p>
+<p>The judge further declared decision by Nairobi City County Assembly whole house committee purporting to impeach Beatrice Elachi as the county assembly speaker as breach of the constitution and her constitutional rights under Article 27 27(1) , 27(2), 27(3) , 41, 47(1) and 50 of the constitution.</p>
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' type='text/html' width='640' height='360' src='https://www.youtube.com/embed/3Jo-MjxeHPU?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></p>
+<p>The court also issued injunction prohibiting the county assembly and it members or any person under it behest from entertaining or debating any motion to remove Elachi through process in violation of fair administration and without due process accorded to her in breach of the right to a hearing vested in her.</p>
+<p>Justice Onyango ruled that the purported committee of the whole house of the county assembly sitting on the afternoon of September 6,2018 had no powers or jurisdiction to impeach speaker Elachi without due process being accorded.</p>
+<p>The judge found that the assembly violated Article 10(2) regarding principles and values of good governance and article 47(1) regarding the the speaker&#8217;s right to an efficient, lawful and procedurally fair administrative action in her impeachment.</p>
+<p>The judge added that the assembly was aware the speaker could not make it on time for proceedings when they summoned her while she was in Mombasa.</p>
+<p>Elachi last year petitioned after she was impeached by the MCAs of Nairobi county assembly.</p>
+<p>Through lawyer Harrison Kinyanjui, Elachi told court that during her impeachment, she was in Malindi for a devolution seminar presided over by Deputy President William Ruto.</p>
+</div>
+</div>
+	            </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_15 td-animation-stack post-11491 post type-post status-publish format-standard has-post-thumbnail hentry category-corruption-cases category-courts tag-director-of-public-prosecution tag-eacc tag-former-nairobi-governor-evans-kidero tag-odpp">
+            <div class="item-details">
+                <h1 class="entry-title"><a href="https://nairobitimez.co.ke/2019/05/07/blow-to-kidero-as-judge-rejects-plea-to-stop-graft-trial/" rel="bookmark" title="BLOW TO KIDERO AS JUDGE REJECTS PLEA TO STOP GRAFT TRIAL.">BLOW TO KIDERO AS JUDGE REJECTS PLEA TO STOP GRAFT TRIAL.</a></h1>
+                <div class="td-module-meta-info">
+	                                    <div class="td-post-author-name">By <a href="https://nairobitimez.co.ke/author/admin/">Nairobi Times</a> - </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-05-07T11:33:57+00:00" >May 7, 2019</time></span>                    <div class="td-post-comments"><a href="https://nairobitimez.co.ke/2019/05/07/blow-to-kidero-as-judge-rejects-plea-to-stop-graft-trial/#respond"><i class="td-icon-comments"></i>0</a></div>                </div>
+
+                <div class="td-post-featured-image"><figure><a href="https://nairobitimez.co.ke/2019/05/07/blow-to-kidero-as-judge-rejects-plea-to-stop-graft-trial/"><img width="696" height="464" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2019/05/IMG_20190507_142939-696x464.png" alt="" title="NairobiTimez"/></a><figcaption class="wp-caption-text">Former Nairobi Governor Evans Kidero before Milimani Anti-Corruption Court.</figcaption></figure></div>
+	            <div class="td-post-text-content td-post-content">
+		            <p>BY SAM ALFAN.</p>
+<div id="m7807189227029806959" class="mail-message expanded">
+<div class="mail-message-header spacer"></div>
+<div class="mail-message-content collapsible zoom-normal mail-show-images ">
+<div class="clear">
+<div dir="auto">
+<p>Former Nairobi Governor Evans Kidero has suffered a major blow after high court dismissed his application seeking to stop corruption charges before the trial court.</p>
+<div dir="auto">
+<p>High Court Anti-Corruption Justice John Onyiego dismissed application for stay the proceedings and set aside stay orders issued before on May 2,2019.</p>
+<p>“The application for stay is hereby dismissed and orders of stay issued on May 2, 2019 lifted. The original file be forwarded to the trial court for hearing to proceed as scheduled”, ordered Onyiego.</p>
+<p>The judge further ordered the parties to fast track hearing of the appeal so as to determine the outstanding issues.</p>
+<p>He said he didn’t find any sufficient to stay of proceedings pending before lower court on account of misjoinder , duplicity or defective charge sheet as there is no prejudice likely ti be suffered even if the trial proceeded before the appeal is heard.</p>
+<p>The judge further said the issue of overloaded charge sheet with over 35 counts is arguable ground of appeal but that alone cannot stop the entire hearing process which is due to start.</p>
+<p>Judge Onyiego said regarding the offences touching on tax evasion, Kidero is not a victim of the same hence can not purport to represent the interests of the other accused persons.</p>
+<p>Kidero together with other 10 accused persons were arraigned before Nairobi Chief Magistrate court on August 9,2018 facing various corruption charges.</p>
+<p>Kidero is accused that on diverse dates between January 16,2014 and January 25,2016 within Nairobi County jointly conspired to commit corruption namely fraud leading to loss of public funds Shillings 213,327,3000 for services not rendered.</p>
+<p>He is also facing charges dealing with suspects.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+	            </div>
+            </div>
+
+        </div>
+
+        
+        <div class="td_module_15 td-animation-stack post-11486 post type-post status-publish format-standard has-post-thumbnail hentry category-courts tag-zainab-mohammed-hussein-noor">
+            <div class="item-details">
+                <h1 class="entry-title"><a href="https://nairobitimez.co.ke/2019/05/06/woman-in-court-for-issuing-threat/" rel="bookmark" title="WOMAN IN COURT FOR ISSUING THREAT.">WOMAN IN COURT FOR ISSUING THREAT.</a></h1>
+                <div class="td-module-meta-info">
+	                                    <div class="td-post-author-name">By <a href="https://nairobitimez.co.ke/author/admin/">Nairobi Times</a> - </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-05-06T21:02:30+00:00" >May 6, 2019</time></span>                    <div class="td-post-comments"><a href="https://nairobitimez.co.ke/2019/05/06/woman-in-court-for-issuing-threat/#respond"><i class="td-icon-comments"></i>0</a></div>                </div>
+
+                <div class="td-post-featured-image"><figure><a href="https://nairobitimez.co.ke/2019/05/06/woman-in-court-for-issuing-threat/"><img width="696" height="598" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2019/05/2019-05-06_23.49.51-696x598.jpg" alt="" title="NairobiTimez"/></a><figcaption class="wp-caption-text">Zainab Mohammed Hussein Noor before Milimani Chief Magistrate Court where she pleaded not guilty to threatening to kill through a text message./PHOTO BY S.A.N </figcaption></figure></div>
+	            <div class="td-post-text-content td-post-content">
+		            <p>BY NT CORRESPONDENT.</p>
+<div id="m-6935222249177599903" class="mail-message expanded">
+<div class="mail-message-header spacer"></div>
+<div class="mail-message-content collapsible zoom-normal mail-show-images ">
+<div class="clear">
+<div dir="auto">
+<div dir="auto">
+<div dir="auto">
+<p>A woman has been charged with issuing threat to kill someone through a text message.</p>
+<p>Zainab Mohammed Hussein Noor appeared before Milimani Chief Magistrate Martha Mutuku and pleaded not guilty to threat to kill charge.</p>
+<p>Zainab is accused that on May 2 at unknown place without lawful excuse uttered a threat to kill Ishmael Tinega Nyangara Nyaribo by sending a written message saying “I will kill you” to the said Ishmael Tinega.</p>
+<p>She was released on a cash bail of 100,000 or 200,000 bond pending hearing and determination of her trial.</p>
+<p>The criminal trial was fixed for June 6 for hearing.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+	            </div>
+            </div>
+
+        </div>
+
+        <div class="page-nav td-pb-padding-side"><span class="current">1</span><a href="https://nairobitimez.co.ke/page/2/" class="page" title="2">2</a><a href="https://nairobitimez.co.ke/page/3/" class="page" title="3">3</a><span class="extend">...</span><a href="https://nairobitimez.co.ke/page/218/" class="last" title="218">218</a><a href="https://nairobitimez.co.ke/page/2/" ><i class="td-icon-menu-right"></i></a><span class="pages">Page 1 of 218</span></div>                            </div>
+                        </div>
+                        <div class="td-pb-span4 td-main-sidebar">
+                            <div class="td-ss-main-sidebar">
+                                <aside class="widget widget_nav_menu"><div class="menu-footer-container"><ul id="menu-footer-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-3835"><a href="http://nairobitimez.co.ke/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-3828"><a href="https://nairobitimez.co.ke/category/news/">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3827"><a href="https://nairobitimez.co.ke/category/courts/">Courts</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3829"><a href="https://nairobitimez.co.ke/category/county-news/">County News.</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3830"><a href="https://nairobitimez.co.ke/category/international-news/">International News</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3831"><a href="https://nairobitimez.co.ke/category/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3832"><a href="https://nairobitimez.co.ke/category/sports/">Sports</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3833"><a href="https://nairobitimez.co.ke/category/countynews/">Nutrition</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3834"><a href="https://nairobitimez.co.ke/category/health/">Health.</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4820"><a href="https://nairobitimez.co.ke/category/corporate-world/">CORPORATE WORLD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4821"><a href="https://nairobitimez.co.ke/category/corruption-cases/">CORRUPTION CASES</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4822"><a href="https://nairobitimez.co.ke/category/taarifa-za-kiswahili/">TAARIFA ZA KISWAHILI</a></li>
+</ul></div></aside><aside class="widget widget_search"><form method="get" class="td-search-form-widget" action="https://nairobitimez.co.ke/">
+    <div role="search">
+        <input class="td-widget-search-input" type="text" value="" name="s" id="s" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="searchsubmit" value="Search" />
+    </div>
+</form></aside>		<aside class="widget widget_recent_entries">		<div class="block-title"><span>Recent Posts</span></div>		<ul>
+											<li>
+					<a href="https://nairobitimez.co.ke/2019/05/11/trio-in-tatu-city-fight-not-off-hook-yet/">TRIO IN TATU CITY FIGHT NOT OFF-HOOK YET.</a>
+									</li>
+											<li>
+					<a href="https://nairobitimez.co.ke/2019/05/10/baby-kianos-case-to-be-heard-next-week/">BABY KIANO&#8217;S CASE TO BE HEARD NEXT WEEK.</a>
+									</li>
+											<li>
+					<a href="https://nairobitimez.co.ke/2019/05/10/two-to-be-probed-in-claims-of-falsely-obtaining-money/">TWO TO BE PROBED IN CLAIMS OF FALSELY OBTAINING MONEY.</a>
+									</li>
+											<li>
+					<a href="https://nairobitimez.co.ke/2019/05/09/trader-charged-with-defrauding-kapiti-plains-estate-sh-54-billion/">TRADER CHARGED WITH DEFRAUDING KAPITI PLAINS ESTATE SH 54 BILLION.</a>
+									</li>
+											<li>
+					<a href="https://nairobitimez.co.ke/2019/05/09/dpp-allows-the-release-of-fertiliser-alleged-to-contain-mercury-as-he-drops-charges-against-five/">DPP ALLOWS THE RELEASE OF FERTILISER ALLEGED TO CONTAIN MERCURY AS HE DROPS CHARGES AGAINST FIVE.</a>
+									</li>
+					</ul>
+		</aside><aside class="widget widget_categories"><div class="block-title"><span>Categories</span></div>		<ul>
+	<li class="cat-item cat-item-13"><a href="https://nairobitimez.co.ke/category/business/" >BUSINESS.</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="https://nairobitimez.co.ke/category/corporate-world/" >CORPORATE WORLD</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="https://nairobitimez.co.ke/category/corruption-cases/" >CORRUPTION CASES</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://nairobitimez.co.ke/category/county-news/" >County News.</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://nairobitimez.co.ke/category/courts/" >Courts</a>
+</li>
+	<li class="cat-item cat-item-1146"><a href="https://nairobitimez.co.ke/category/criminal-cases/" >CRIMINAL CASES</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://nairobitimez.co.ke/category/editorial/" >Editorial</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://nairobitimez.co.ke/category/featured/" title="Featured posts">Featured</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://nairobitimez.co.ke/category/health/" >Health.</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="https://nairobitimez.co.ke/category/international-news/" >International News</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://nairobitimez.co.ke/category/letters/" >letters</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="https://nairobitimez.co.ke/category/news/" >News</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://nairobitimez.co.ke/category/countynews/" >Nutrition</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://nairobitimez.co.ke/category/nutrition/" >Nutrition</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://nairobitimez.co.ke/category/opinion/" >Opinion</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://nairobitimez.co.ke/category/politics/" >Politics</a>
+</li>
+	<li class="cat-item cat-item-1790"><a href="https://nairobitimez.co.ke/category/proceeds-of-crime/" >PROCEEDS OF CRIME.</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://nairobitimez.co.ke/category/sports/" >Sports</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://nairobitimez.co.ke/category/taarifa-za-kiswahili/" >TAARIFA ZA KISWAHILI</a>
+</li>
+	<li class="cat-item cat-item-1284"><a href="https://nairobitimez.co.ke/category/tax-offences/" >TAX OFFENCES</a>
+</li>
+		</ul>
+</aside>                            </div>
+                        </div>
+                            </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+
+<!-- Instagram -->
+
+
+
+<!-- Footer -->
+<div class="td-footer-wrapper td-footer-template-2">
+    <div class="td-container">
+
+	    <div class="td-pb-row">
+		    <div class="td-pb-span12">
+			    
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-footer_top">
+<script type="text/javascript">
+var td_screen_width = document.body.clientWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8499956643081604" data-ad-slot=""></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8499956643081604" data-ad-slot=""></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8499956643081604" data-ad-slot=""></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8499956643081604" data-ad-slot=""></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+
+ <!-- end A --> 
+
+		    </div>
+	    </div>
+
+        <div class="td-pb-row">
+
+            <div class="td-pb-span4">
+                <div class="td-footer-info"><div class="footer-logo-wrap"><a href="https://nairobitimez.co.ke/"><img src="" alt="Nairobi Times" title=""/></a></div><div class="footer-text-wrap">Powered  By NTimes</div><div class="footer-social-wrap td-social-style-2">
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/Nairobi-TIMES-936919219683882/" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span></div></div>                            </div>
+
+            <div class="td-pb-span4">
+                <script>var block_td_uid_1_5cd73af63da20 = new tdBlock();
+block_td_uid_1_5cd73af63da20.id = "td_uid_1_5cd73af63da20";
+block_td_uid_1_5cd73af63da20.atts = '{"limit":3,"sort":"popular","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"POPULAR POSTS","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_1_5cd73af63da20_rand","offset":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_1_5cd73af63da20.td_column_number = "1";
+block_td_uid_1_5cd73af63da20.block_type = "td_block_7";
+block_td_uid_1_5cd73af63da20.post_count = "3";
+block_td_uid_1_5cd73af63da20.found_posts = "2178";
+block_td_uid_1_5cd73af63da20.header_color = "";
+block_td_uid_1_5cd73af63da20.ajax_pagination_infinite_stop = "";
+block_td_uid_1_5cd73af63da20.max_num_pages = "726";
+tdBlocksArray.push(block_td_uid_1_5cd73af63da20);
+</script><div class="td_block_wrap td_block_7 td_uid_1_5cd73af63da20_rand td-pb-border-top"  data-td-block-uid="td_uid_1_5cd73af63da20" ><h4 class="block-title"><span>POPULAR POSTS</span></h4><div id=td_uid_1_5cd73af63da20 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://nairobitimez.co.ke/2017/03/14/club-owner-to-be-sentenced-for-killing-customer/" rel="bookmark" title="CLUB OWNER TO BE SENTENCED FOR KILLING CUSTOMER."><img width="100" height="70" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2017/03/IMG_20170314_180231-100x70.jpg" alt="" title="CLUB OWNER TO BE SENTENCED FOR KILLING CUSTOMER."/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://nairobitimez.co.ke/2017/03/14/club-owner-to-be-sentenced-for-killing-customer/" rel="bookmark" title="CLUB OWNER TO BE SENTENCED FOR KILLING CUSTOMER.">CLUB OWNER TO BE SENTENCED FOR KILLING CUSTOMER.</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-03-14T15:02:00+00:00" >March 14, 2017</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://nairobitimez.co.ke/2017/02/08/gilgil-hills-teacher-to-be-extradited-to-rwanda-for-planning-genocide/" rel="bookmark" title="GILGIL HILLS TEACHER TO BE EXTRADITED TO RWANDA FOR PLANNING GENOCIDE."><img width="100" height="70" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2017/02/IMG_20170208_152332-100x70.jpg" alt="" title="GILGIL HILLS TEACHER TO BE EXTRADITED TO RWANDA FOR PLANNING GENOCIDE."/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://nairobitimez.co.ke/2017/02/08/gilgil-hills-teacher-to-be-extradited-to-rwanda-for-planning-genocide/" rel="bookmark" title="GILGIL HILLS TEACHER TO BE EXTRADITED TO RWANDA FOR PLANNING GENOCIDE.">GILGIL HILLS TEACHER TO BE EXTRADITED TO RWANDA FOR PLANNING GENOCIDE.</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-02-08T12:34:18+00:00" >February 8, 2017</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://nairobitimez.co.ke/2019/01/28/jsc-commissioner-fails-to-get-sh87-million-in-legal-fees-from-nairobi-county-government/" rel="bookmark" title="JSC COMMISSIONER FAILS TO GET SH87 MILLION IN LEGAL FEES FROM NAIROBI COUNTY GOVERNMENT."><img width="100" height="70" class="entry-thumb" src="https://nairobitimez.co.ke/wp-content/uploads/2019/01/987050-100x70.jpg" alt="" title="JSC COMMISSIONER FAILS TO GET SH87 MILLION IN LEGAL FEES FROM NAIROBI COUNTY GOVERNMENT."/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://nairobitimez.co.ke/2019/01/28/jsc-commissioner-fails-to-get-sh87-million-in-legal-fees-from-nairobi-county-government/" rel="bookmark" title="JSC COMMISSIONER FAILS TO GET SH87 MILLION IN LEGAL FEES FROM NAIROBI COUNTY GOVERNMENT.">JSC COMMISSIONER FAILS TO GET SH87 MILLION IN LEGAL FEES FROM...</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-01-28T20:03:10+00:00" >January 28, 2019</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block -->                            </div>
+
+            <div class="td-pb-span4">
+                <div class="td_block_wrap td_block_popular_categories td_uid_2_5cd73af6440fc_rand widget widget_categories td-pb-border-top"  data-td-block-uid="td_uid_2_5cd73af6440fc" ><h4 class="block-title"><span>POPULAR CATEGORY</span></h4><ul class="td-pb-padding-side"><li><a href="https://nairobitimez.co.ke/category/courts/">Courts<span class="td-cat-no">1815</span></a></li><li><a href="https://nairobitimez.co.ke/category/news/">News<span class="td-cat-no">531</span></a></li><li><a href="https://nairobitimez.co.ke/category/business/">BUSINESS.<span class="td-cat-no">271</span></a></li><li><a href="https://nairobitimez.co.ke/category/county-news/">County News.<span class="td-cat-no">245</span></a></li><li><a href="https://nairobitimez.co.ke/category/politics/">Politics<span class="td-cat-no">218</span></a></li><li><a href="https://nairobitimez.co.ke/category/corruption-cases/">CORRUPTION CASES<span class="td-cat-no">129</span></a></li><li><a href="https://nairobitimez.co.ke/category/international-news/">International News<span class="td-cat-no">107</span></a></li><li><a href="https://nairobitimez.co.ke/category/corporate-world/">CORPORATE WORLD<span class="td-cat-no">69</span></a></li><li><a href="https://nairobitimez.co.ke/category/letters/">letters<span class="td-cat-no">39</span></a></li></ul></div> <!-- ./block -->                            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Sub Footer -->
+    <div class="td-sub-footer-container">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span7 td-sub-footer-menu">
+                        <div class="menu-footer-container"><ul id="menu-footer-3" class="td-subfooter-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-3835"><a href="http://nairobitimez.co.ke/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-3828"><a href="https://nairobitimez.co.ke/category/news/">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3827"><a href="https://nairobitimez.co.ke/category/courts/">Courts</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3829"><a href="https://nairobitimez.co.ke/category/county-news/">County News.</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3830"><a href="https://nairobitimez.co.ke/category/international-news/">International News</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3831"><a href="https://nairobitimez.co.ke/category/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3832"><a href="https://nairobitimez.co.ke/category/sports/">Sports</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3833"><a href="https://nairobitimez.co.ke/category/countynews/">Nutrition</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3834"><a href="https://nairobitimez.co.ke/category/health/">Health.</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4820"><a href="https://nairobitimez.co.ke/category/corporate-world/">CORPORATE WORLD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4821"><a href="https://nairobitimez.co.ke/category/corruption-cases/">CORRUPTION CASES</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-4822"><a href="https://nairobitimez.co.ke/category/taarifa-za-kiswahili/">TAARIFA ZA KISWAHILI</a></li>
+</ul></div>                </div>
+
+                <div class="td-pb-span5 td-sub-footer-copy">
+                    Powered By Nairobi Times                 </div>
+            </div>
+        </div>
+    </div>
+</div><!--close td-outer-wrap-->
+
+	<div style="display:none">
+	</div>
+
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2016
+        Version: 7.1.1 (rara)
+        Deploy mode: deploy
+        
+        uid: 5cd73af646c1f
+    -->
+
+    <script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201919'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Mayaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://nairobitimez.co.ke/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9.10'></script>
+<script type='text/javascript' src='https://nairobitimez.co.ke/wp-content/themes/Newspaper/js/tagdiv_theme.js?ver=7.1.1'></script>
+<script type='text/javascript' src='https://nairobitimez.co.ke/wp-includes/js/wp-embed.min.js?ver=4.9.10'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://nairobitimez.co.ke/wp-content/themes/Newspaper/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://nairobitimez.co.ke/wp-content/themes/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+<script type='text/javascript' src='https://stats.wp.com/e-201919.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.6.1',blog:'149643411',post:'0',tz:'0',srv:'nairobitimez.co.ke'} ]);
+	_stq.push([ 'clickTrackerInit', '149643411', '0' ]);
+</script>
+
+</body>
+</html>

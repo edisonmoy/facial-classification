@@ -8,15 +8,17 @@ faceCascade = cv2.CascadeClassifier('./assets/haarcascade_frontalface_alt.xml')
 
 vs = cv2.VideoCapture(0)
 
-vs.set(3,1280)
-vs.set(4,1024)
+vs.set(3, 1280)
+vs.set(4, 1024)
 
-model = load_model('./assets/trained_model')
+ethnicity_model = load_model('./assets/ethnicity_model')
+
+emotion_model = load_model('./assets/emotion_model')
 
 IMG_SIZE = 300
 
 
-def evaluate_img(input_model, img, input_frame, pos_x, pos_y):
+def evaluate_img_ethnicity(input_model, img, input_frame, pos_x, pos_y):
     img = Image.fromarray(img, 'RGB')
     img = img.convert('L')
     img = img.resize((IMG_SIZE, IMG_SIZE), Image.ANTIALIAS)
@@ -31,12 +33,24 @@ def evaluate_img(input_model, img, input_frame, pos_x, pos_y):
                     color=(0, 0, 255), fontScale=1)
 
 
+def evaluate_img_emotion(input_model, img, input_frame, pos_x, pos_y):
+    img = Image.fromarray(img, 'RGB')
+    img = img.convert('L')
+    img = img.resize((IMG_SIZE, IMG_SIZE), Image.ANTIALIAS)
+    img = np.array(img)
+    result = np.array([img.reshape(IMG_SIZE, IMG_SIZE, 1)])
+    result = input_model.predict(result, verbose=0)
+    if result[0][0] > 0.5:
+        cv2.putText(img=input_frame, text="Happy", org=(pos_x, pos_y), fontFace=cv2.FONT_HERSHEY_SIMPLEX,
+                    color=(0, 0, 255), fontScale=1)
+    else:
+        cv2.putText(img=input_frame, text="Sad", org=(pos_x, pos_y), fontFace=cv2.FONT_HERSHEY_SIMPLEX,
+                    color=(0, 0, 255), fontScale=1)
+
+
 while True:
-    # grab the current frame
     ret, frame = vs.read()
 
-    # if we are viewing a video and we did not grab a frame,
-    # then we have reached the end of the video
     if frame is None:
         break
 
@@ -45,7 +59,9 @@ while True:
     for (x, y, w, h) in faces:
         cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 0, 255), 2)
         face_found = frame[y:y + h, x:x + w]
-        evaluate_img(model, face_found, frame, x, y)
+
+        # evaluate_img_ethnicity(ethnicity_model, face_found, frame, x, y)
+        evaluate_img_emotion(emotion_model, face_found, frame, x, y)
 
     # show the frame to our screen
     cv2.imshow("Video", frame)
@@ -55,5 +71,4 @@ while True:
     if key == ord("q"):
         break
 
-    # close all windows
 cv2.destroyAllWindows()
