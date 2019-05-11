@@ -8,6 +8,9 @@ faceCascade = cv2.CascadeClassifier('./assets/haarcascade_frontalface_alt.xml')
 
 vs = cv2.VideoCapture(0)
 
+vs.set(3,1280)
+vs.set(4,1024)
+
 model = load_model('./assets/trained_model')
 
 IMG_SIZE = 300
