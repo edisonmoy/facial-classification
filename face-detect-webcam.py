@@ -1,5 +1,4 @@
 import cv2
-import time
 from keras.models import load_model
 import numpy as np
 from PIL import Image
@@ -13,7 +12,7 @@ vs.set(4, 1024)
 
 ethnicity_model = load_model('./assets/ethnicity_model')
 
-emotion_model = load_model('./assets/emotion_model')
+# emotion_model = load_model('./assets/emotion_model')
 
 IMG_SIZE = 300
 
@@ -60,10 +59,9 @@ while True:
         cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 0, 255), 2)
         face_found = frame[y:y + h, x:x + w]
 
-        # evaluate_img_ethnicity(ethnicity_model, face_found, frame, x, y)
-        evaluate_img_emotion(emotion_model, face_found, frame, x, y)
+        evaluate_img_ethnicity(ethnicity_model, face_found, frame, x, y)
+        # evaluate_img_emotion(emotion_model, face_found, frame, x, y)
 
-    # show the frame to our screen
     cv2.imshow("Video", frame)
     key = cv2.waitKey(1) & 0xFF
 
