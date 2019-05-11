@@ -13,8 +13,7 @@ model = load_model('./assets/trained_model')
 IMG_SIZE = 300
 
 
-
-def evaluate_img(input_model, img, input_frame, x, y):
+def evaluate_img(input_model, img, input_frame, pos_x, pos_y):
     img = Image.fromarray(img, 'RGB')
     img = img.convert('L')
     img = img.resize((IMG_SIZE, IMG_SIZE), Image.ANTIALIAS)
@@ -22,10 +21,10 @@ def evaluate_img(input_model, img, input_frame, x, y):
     result = np.array([img.reshape(IMG_SIZE, IMG_SIZE, 1)])
     result = input_model.predict(result, verbose=0)
     if result[0][0] > 0.5:
-        cv2.putText(img=input_frame, text="Chinese", org=(x, y), fontFace=cv2.FONT_HERSHEY_SIMPLEX,
+        cv2.putText(img=input_frame, text="Chinese", org=(pos_x, pos_y), fontFace=cv2.FONT_HERSHEY_SIMPLEX,
                     color=(0, 0, 255), fontScale=1)
     else:
-        cv2.putText(img=input_frame, text="Ghanaian", org=(x, y), fontFace=cv2.FONT_HERSHEY_SIMPLEX,
+        cv2.putText(img=input_frame, text="Ghanaian", org=(pos_x, pos_y), fontFace=cv2.FONT_HERSHEY_SIMPLEX,
                     color=(0, 0, 255), fontScale=1)
 
 
