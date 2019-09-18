@@ -12,7 +12,7 @@ vs.set(4, 1024)
 
 ethnicity_model = load_model('./assets/ethnicity_model')
 
-# emotion_model = load_model('./assets/emotion_model')
+emotion_model = load_model('./assets/emotion_model')
 
 IMG_SIZE = 300
 
@@ -27,7 +27,7 @@ def evaluate_img_ethnicity(input_model, img, input_frame, pos_x, pos_y):
     if result[0][0] > 0.5:
         cv2.putText(img=input_frame, text="Chinese", org=(pos_x, pos_y), fontFace=cv2.FONT_HERSHEY_SIMPLEX,
                     color=(0, 0, 255), fontScale=1)
-    else:
+    elif result[0][0] > .001  and result[0][0] < .5:
         cv2.putText(img=input_frame, text="Ghanaian", org=(pos_x, pos_y), fontFace=cv2.FONT_HERSHEY_SIMPLEX,
                     color=(0, 0, 255), fontScale=1)
 
@@ -59,8 +59,8 @@ while True:
         cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 0, 255), 2)
         face_found = frame[y:y + h, x:x + w]
 
-        evaluate_img_ethnicity(ethnicity_model, face_found, frame, x, y)
-        # evaluate_img_emotion(emotion_model, face_found, frame, x, y)
+        # evaluate_img_ethnicity(ethnicity_model, face_found, frame, x, y)
+        evaluate_img_emotion(emotion_model, face_found, frame, x, y)
 
     cv2.imshow("Video", frame)
     key = cv2.waitKey(1) & 0xFF
